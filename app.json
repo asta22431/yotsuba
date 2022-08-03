@@ -66,9 +66,7 @@
       {
           "url": "https://github.com/AlenSaito1/heroku-buildpack-imagemagick.git"
       },
-      {
-          "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-      },
+     
       {
           "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
       }
